@@ -32,7 +32,7 @@ Similarity: 85%
 How to Run
 1.Install Python (3.x)
 2.Clone repository
-git clone https://github.com/nishanth3128/DNA Analyser.git
+git clone https://github.com/nishanth3128/dna-sequence-analyzer
 
 Future Improvements:
 -> FASTA file support
